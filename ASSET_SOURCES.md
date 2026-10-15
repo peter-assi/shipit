@@ -1,8 +1,8 @@
 # Added animation sources
 
-Each GIF below is a loop prepared from media on Wikimedia Commons. Credit and
-license details apply to the named file; other assets in this repository may
-have different terms.
+Each GIF below is a loop prepared from media on Wikimedia Commons or Flickr.
+Credit and license details apply to the named file; other assets in this
+repository may have different terms.
 
 | GIF | Creator and source | License | Changes |
 | --- | --- | --- | --- |
@@ -18,5 +18,16 @@ have different terms.
 | `grey-squirrel-climbing-tree.gif` | [gails_pictures](https://www.flickr.com/photos/gails_pictures/), [Grey squirrel video.webm](https://commons.wikimedia.org/wiki/File:Grey_squirrel_video.webm) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Extracted the first 4.3 seconds, resized, and converted to a silent looping GIF at 8 frames per second. |
 | `squirrel-eating-cicada.gif` | Eric Leuliette, [Squirrel eating cicada.ogg](https://commons.wikimedia.org/wiki/File:Squirrel_eating_cicada.ogg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Extracted the first ten seconds, resized, and converted to a silent looping GIF at 8 frames per second. |
 | `red-squirrel-hopping-off-log.gif` | Peter Trimming, [Erica the squirrel.webm](https://commons.wikimedia.org/wiki/File:%27Erica%27_the_squirrel.webm) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Extracted the first 9.8 seconds, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `red-squirrel-digging-in-snow.gif` | Jerzystrzelecki, [Squirrel, snow and nut.webm](https://commons.wikimedia.org/wiki/File:Squirrel,_snow_and_nut.webm) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Extracted ten seconds beginning twenty seconds into the video, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `beldings-ground-squirrel-dashing-from-burrow.gif` | Bureau of Land Management Oregon and Washington, [Belding's ground squirrels.webm](https://commons.wikimedia.org/wiki/File:Belding%27s_ground_squirrels.webm) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Extracted the first 4.5 seconds from the Commons 360p transcode, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `red-squirrel-climbing-house-wall.gif` | WizzSilent, [Squirrels running up the wall.webm](https://commons.wikimedia.org/wiki/File:Squirrels_running_up_the_wall.webm) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Extracted 5.5 seconds beginning two seconds into the Commons 360p transcode, cropped, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `chipmunk-balancing-on-forest-branch.gif` | Cephas, [Tamias striatus.ogv](https://commons.wikimedia.org/wiki/File:Tamias_striatus.ogv) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | Extracted the first ten seconds, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `sonoma-chipmunk-working-on-log.gif` | Frank Schulenburg, [Sonoma chipmunk.webmhd.webm](https://commons.wikimedia.org/wiki/File:Sonoma_chipmunk.webmhd.webm) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Extracted ten seconds beginning one second into the video, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `two-chipmunks-exploring-apple.gif` | Nesnad, [Tamias - tokyo area - 2012 12 19.ogv](https://commons.wikimedia.org/wiki/File:Tamias_-_tokyo_area_-_2012_12_19.ogv) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Extracted the first eight seconds, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `chipmunk-scampering-at-capitol-reef.gif` | R-E-AL, [1993 streifenhoernchen.ogv](https://commons.wikimedia.org/wiki/File:1993_streifenhoernchen.ogv) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | Extracted eleven seconds beginning 26 seconds into the video, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `kreffts-glider-approaching-camera.gif` | Caroline Jones, [Krefft’s glider (sugar glider)](https://www.flickr.com/photos/cazzjj/52007748424/) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Extracted eight seconds beginning nine seconds into the video, cropped, adjusted contrast and brightness, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `kreffts-glider-climbing-into-nest-box.gif` | Caroline Jones, [Kreffts glider inspecting new box](https://www.flickr.com/photos/cazzjj/52315269177/) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Extracted the first twelve seconds, cropped, adjusted contrast and brightness, resized, and converted to a silent looping GIF at 8 frames per second. |
+| `kreffts-glider-inspecting-round-nest-box.gif` | Caroline Jones, [Krefft’s glider gets a new home](https://www.flickr.com/photos/cazzjj/52034577763/) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Extracted eleven seconds beginning 62 seconds into the video, cropped, adjusted contrast and brightness, resized, and converted to a silent looping GIF at 8 frames per second. |
 
-The sugar glider source was filmed at night and remains dim after brightening.
+The Hyde Park sugar glider source was filmed at night and remains dim after
+brightening. The Krefft's glider GIFs come from grayscale infrared footage.
